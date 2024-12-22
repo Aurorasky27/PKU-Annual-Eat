@@ -4,8 +4,8 @@ import requests
 import platform
 from datetime import datetime
 
-account = ""
-hallticket = ""
+account = "383817"
+hallticket = "DF2B6EE09E58494BA705B6CE860B0D20"
 all_data = dict()
 
 if __name__ == "__main__":
